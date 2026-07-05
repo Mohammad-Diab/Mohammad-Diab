@@ -24,6 +24,7 @@ Today I lead the UI architecture of a petabyte-scale analytics platform, build n
 |---|---|---|
 | **[DiskLens](https://github.com/Mohammad-Diab/DiskLens)** | Fast Windows disk-space analyzer — Win32 `FindFirstFile` + NTFS MFT scanning, virtualized table that eats 50,000+ entries | Tauri 2 · React 19 · Rust |
 | **Dorak** | Clinic-appointment SaaS for the Arabic market — WhatsApp booking bot, automated reminders, full RTL/LTR | React 19 · Node · PostgreSQL |
+| **[Flux](https://github.com/Mohammad-Diab/Flux)** | An **optical data channel** — encodes files into error-corrected colored-tile frames that survive screen capture, decoded live via computer vision (QR-style fiducials + homography). Reed-Solomon ECC, recompression-tolerant 256-color palette, 230+ tests. Built in **<16 hours** | C# · .NET 10 · WPF |
 | **[Generative AI Showcase](https://generative-ai-svu-s25-bmm601.pages.dev/)** | Interactive bilingual RTL deck on GenAI — ~5,800 lines of framework-free CSS/JS, dual-canvas animation engine, built in ~20 part-time hours | HTML/CSS/JS · Cloudflare Workers |
 | **At work** | **Time Machine** — UI of a 100 TB/day snapshot/rollback service · **BarqMCP** — ask your telecom data questions in plain language, get charts back | React · Node · MCP |
 
