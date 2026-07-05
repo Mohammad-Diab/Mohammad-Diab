@@ -83,4 +83,4 @@ Learning **Rust** properly (DiskLens is the excuse) · going deeper into **agent
 
 ---
 
-<sub>My first website was **بلادي فلسطين**, built in FrontPage 2003 under the very serious banner of *The Legend Corporation™* — established 2007, headquartered in my childhood bedroom. The corporation lives on in spirit.</sub>
+<sub>My first website was built in FrontPage 2003 under the very serious banner of *The Legend Corporation™* — established 2007, headquartered in my childhood bedroom. The corporation lives on in spirit.</sub>
