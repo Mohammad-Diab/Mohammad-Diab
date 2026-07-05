@@ -81,8 +81,6 @@ Learning **Rust** properly (DiskLens is the excuse) · going deeper into **agent
 [![Email](https://img.shields.io/badge/Email-mohammad.diab93@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mohammad.diab93@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadsalimdiab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadsalimdiab)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Diab&layout=compact&theme=tokyonight)
-
 ---
 
 <sub>My first website was built in FrontPage 2003 under the very serious banner of *The Legend Corporation™* — established 2007, headquartered in my childhood bedroom. The corporation lives on in spirit.</sub>
