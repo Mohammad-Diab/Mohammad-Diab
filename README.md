@@ -46,7 +46,7 @@ Today I lead the UI architecture of a petabyte-scale analytics platform, build n
 - **RTL is not an afterthought.** Half the world reads the other way.
 - **Performance is a feature**, and usually the cheapest one to ship.
 - AI doesn't replace taste — it **multiplies** it. Same model, wildly different output, depending on who's driving.
-- Perfect-and-hidden loses to **shipped-and-seen**. (Learned this one the hard way, over ~15 years.)
+- Perfect-and-hidden loses to **shipped-and-seen**.
 
 ---
 
