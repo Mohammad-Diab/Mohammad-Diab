@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer — Front-End, Performance & AI** · Dubai, UAE 🇦🇪
 
-> From editing `shell32.dll` on a shared family PC to owning the UI of a **100 TB/day** data platform.
+> From editing `shell32.dll` on a shared family PC to owning the UI/API tier of a **petabyte-scale** enterprise data platform.
 
 🏆 **Top 1.6% worldwide** on CSSBattle · 🧩 **100+ projects** since 2007 · ⚡ page loads cut **up to 70%** · 🤖 ships AI apps at AI speed
 
