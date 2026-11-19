@@ -1,6 +1,6 @@
 # Mohammad Diab
 
-**Senior Full-Stack Engineer — Front-End, Performance & AI** · Dubai, UAE 🇦🇪
+**Senior Full-Stack Engineer | Front-End, Performance & AI** · Dubai, UAE 🇦🇪
 
 > From editing `shell32.dll` on a shared family PC to owning the UI/API tier of a **petabyte-scale** enterprise data platform.
 
@@ -10,9 +10,9 @@
 
 ## The short story
 
-I'm self-taught — no bootcamp, no CS degree. Just a Celeron, 56k dial-up, and an unreasonable need to know how things work. As a kid I rebuilt Windows XP for fun: custom builds, hand-edited `shell32.dll` icons, an installer that put a full OS on disk in under 10 minutes. The first time I made a real `.exe`, it felt like discovering the moon.
+I'm self-taught: no bootcamp, no CS degree. Just a Celeron, 56k dial-up, and an unreasonable need to know how things work. As a kid I rebuilt Windows XP for fun: custom builds, hand-edited `shell32.dll` icons, an installer that put a full OS on disk in under 10 minutes. The first time I made a real `.exe`, it felt like discovering the moon.
 
-I never stopped. **100+ projects across web, desktop, mobile, embedded, and design systems** — and I've kept every single one. They're my memory.
+I never stopped. **100+ projects across web, desktop, mobile, embedded, and design systems**, and I've kept every single one. They're my memory.
 
 Today I lead the UI architecture of a petabyte-scale analytics platform, build natural-language data tools on MCP, and still lose sleep over 50-millisecond animation timings.
 
@@ -22,30 +22,35 @@ Today I lead the UI architecture of a petabyte-scale analytics platform, build n
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[DiskLens](https://github.com/Mohammad-Diab/DiskLens)** | Fast Windows disk-space analyzer — Win32 `FindFirstFile` + NTFS MFT scanning, virtualized table that eats 50,000+ entries | Tauri 2 · React 19 · Rust |
-| **Dorak** | Clinic-appointment SaaS for the Arabic market — WhatsApp booking bot, automated reminders, full RTL/LTR | React 19 · Node · PostgreSQL |
-| **[Flux](https://github.com/Mohammad-Diab/Flux)** | An **optical data channel** — encodes files into error-corrected colored-tile frames that survive screen capture, decoded live via computer vision (QR-style fiducials + homography). Reed-Solomon ECC, recompression-tolerant 256-color palette, 230+ tests. Built in **<16 hours** | C# · .NET 10 · WPF |
-| **[Generative AI Showcase](https://generative-ai-svu-s25-bmm601.pages.dev/)** | Interactive bilingual RTL deck on GenAI — ~5,800 lines of framework-free CSS/JS, dual-canvas animation engine, built in ~20 part-time hours | HTML/CSS/JS · Cloudflare Workers |
-| **At work** | **Time Machine** — UI of a 100 TB/day snapshot/rollback service · **BarqMCP** — ask your telecom data questions in plain language, get charts back | React · Node · MCP |
+| **[SVU One](https://mohammad-diab.github.io/SVU-One/)** | One app for Syrian Virtual University students: lectures and live sessions, mail, calendar, marks and the path to graduation, with on-device AI for clearer lecture audio and subtitles. On the Microsoft Store, Android coming | C# · .NET 10 · Avalonia |
+| **[Insiyab UI](https://github.com/Mohammad-Diab/insiyab-ui)** | An Arabic-first UI library: right-to-left from the ground up, frosted glass, motion that respects reduced motion. The design system behind SVU One, on NuGet as `Insiyab.Avalonia` | HTML/CSS · Avalonia |
+| **Dorak** | Clinic-appointment SaaS for the Arabic market: WhatsApp booking bot, automated reminders, full RTL/LTR | React 19 · Node · PostgreSQL |
+| **[Generative AI Showcase](https://generative-ai-svu-s25-bmm601.pages.dev/)** | Interactive bilingual RTL deck on GenAI: ~5,800 lines of framework-free CSS/JS, dual-canvas animation engine, built in ~20 part-time hours | HTML/CSS/JS · Cloudflare Workers |
+| **At work** | **Time Machine**, the UI of a 100 TB/day snapshot/rollback service · **BarqMCP**: ask your telecom data questions in plain language, get charts back | React · Node · MCP |
+
+### Earlier highlights
+
+- **[Flux](https://github.com/Mohammad-Diab/Flux)**: an **optical data channel** that encodes files into error-corrected colored-tile frames that survive screen capture, decoded live via computer vision (QR-style fiducials + homography). Reed-Solomon ECC, recompression-tolerant 256-color palette, 230+ tests. Built in **<16 hours**. *C# · .NET 10 · WPF*
+- **[DiskLens](https://github.com/Mohammad-Diab/DiskLens)**: fast Windows disk-space analyzer. Win32 `FindFirstFile` + NTFS MFT scanning, virtualized table that eats 50,000+ entries. *Tauri 2 · React 19 · Rust*
 
 ---
 
 ## 🧾 Receipts
 
-- **CSSBattle** — ranked **74th of 4,558** players worldwide, on my *first attempt* → [the battle](https://cssbattle.dev/battle/15)
-- **Sudoku Solver** — **14,000+ organic views** on CodePen, zero marketing → [play it](https://codepen.io/MohammadDiab/pen/JLMvEY)
-- **ACM Solid Programmer** — 3 problems, **zero errors**, best performance, competing solo
-- **Portfolio film** — my projects floating in a 3D room I modeled in Blender → [watch (1:37)](https://youtu.be/YgkRDqDlLd0)
-- **A mine-detection robot** (graduation project, C + C#) — dual-sensor, serial-controlled, drew a live map of everything it found
+- **CSSBattle**: ranked **74th of 4,558** players worldwide, on my *first attempt* → [the battle](https://cssbattle.dev/battle/15)
+- **Sudoku Solver**: **14,000+ organic views** on CodePen, zero marketing → [play it](https://codepen.io/MohammadDiab/pen/JLMvEY)
+- **ACM Solid Programmer**: 3 problems, **zero errors**, best performance, competing solo
+- **Portfolio film**: my projects floating in a 3D room I modeled in Blender → [watch (1:37)](https://youtu.be/YgkRDqDlLd0)
+- **A mine-detection robot** (graduation project, C + C#): dual-sensor, serial-controlled, drew a live map of everything it found
 
 ---
 
 ## 🧠 Things I believe
 
-- A window should **dim when it loses focus**. A menu should **morph, not blink**. Users never notice — they just *feel* it.
+- A window should **dim when it loses focus**. A menu should **morph, not blink**. Users never notice; they just *feel* it.
 - **RTL is not an afterthought.** Half the world reads the other way.
 - **Performance is a feature**, and usually the cheapest one to ship.
-- AI doesn't replace taste — it **multiplies** it. Same model, wildly different output, depending on who's driving.
+- AI doesn't replace taste. It **multiplies** it. Same model, wildly different output, depending on who's driving.
 - Perfect-and-hidden loses to **shipped-and-seen**.
 
 ---
@@ -64,7 +69,7 @@ Today I lead the UI architecture of a petabyte-scale analytics platform, build n
 
 ## 💼 Ten years, one breath
 
-**LigaData** (2022–now) — own the React + Node UI of *Time Machine* (100 TB/day); among the first to adopt AI-assisted development, helping cut product cycles from ~a year to months. **NVSSoft** (2018–22) — built ~25% of *Tarasol v4*, a correspondence platform running across Gulf government bodies; −35% support tickets, −40% page loads. **Freelance** (2013–18) — e-commerce, IMEI stolen-phone lookup, clinic management, a WPF file manager with a pause/resume copy engine that backported Windows 8 UX to XP.
+**LigaData** (2022–now): own the React + Node UI of *Time Machine* (100 TB/day); among the first to adopt AI-assisted development, helping cut product cycles from ~a year to months. **NVSSoft** (2018–22): built ~25% of *Tarasol v4*, a correspondence platform running across Gulf government bodies; −35% support tickets, −40% page loads. **Freelance** (2013–18): e-commerce, IMEI stolen-phone lookup, clinic management, a WPF file manager with a pause/resume copy engine that backported Windows 8 UX to XP.
 
 *Full CV on [LinkedIn](https://linkedin.com/in/mohammadsalimdiab).*
 
@@ -72,7 +77,7 @@ Today I lead the UI architecture of a petabyte-scale analytics platform, build n
 
 ## 🌱 Currently
 
-Learning **Rust** properly (DiskLens is the excuse) · going deeper into **agentic AI & MCP** · eyeing my first contributions to **[Files](https://github.com/files-community/Files)** — a file manager is where I started, so it feels like coming home.
+Learning **Rust** properly (DiskLens is the excuse) · going deeper into **agentic AI & MCP** · eyeing my first contributions to **[Files](https://github.com/files-community/Files)**: a file manager is where I started, so it feels like coming home.
 
 ---
 
@@ -83,4 +88,4 @@ Learning **Rust** properly (DiskLens is the excuse) · going deeper into **agent
 
 ---
 
-<sub>My first website was built in FrontPage 2003 under the very serious banner of *The Legend Corporation™* — established 2007, headquartered in my childhood bedroom. The corporation lives on in spirit.</sub>
+<sub>My first website was built in FrontPage 2003 under the very serious banner of *The Legend Corporation™*, established 2007, headquartered in my childhood bedroom. The corporation lives on in spirit.</sub>
